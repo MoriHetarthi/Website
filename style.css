@@ -107,8 +107,10 @@ font-size: 20px;
 
 /* Services Section */
 #services{
-margin: 10px auto;
+margin: 70px auto;
 display: flex;
+justify-content: center;
+align-items: center;
 }
 
 #services .box{
